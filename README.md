@@ -2,6 +2,7 @@
 
 ## data source:
 1. https://data.humdata.org/dataset/indonesia-administrative-boundary-polygons-lines-and-places-levels-0-4b 
+I reducing the shp file on https://mapshaper.org/
 2. https://api.kawalcorona.com/indonesia/provinsi/
 
 ## required python library:
